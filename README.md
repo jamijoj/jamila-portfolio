@@ -8,4 +8,4 @@ Hi all! My name is Jamila (she/her/hers) and I am a Master of Arts Management st
 In this class I hope to learn how to combine basic design skills and data to quickly and effectively communicate a message. I also want to learn to use new softwares like GitHub (yay!) and Tableau. I know we won't leave the course as professionals in using these softwares, but I hope to learn enough so that I can continue learning at a more advanced level later on, should I choose to do so. 
 
 # Portfolio:
-Stay tuned!
+[Assignment 2: Visualizing Government Debt](dataviz.md)
