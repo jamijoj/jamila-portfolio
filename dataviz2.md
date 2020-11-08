@@ -19,3 +19,6 @@ The second visualization displays a series of separate sparkline charts, each of
 The final visualization is 4D, as it includes the element of time. It is an animated scatterplot that demonstrates how each country's debt has changed over time. I initially wanted to represent the dataset in a static chart by finding the difference between current global debt and 1995 global debt for each country and representing these numbers on a graph. However, found this animated scatterplot, which does the same thinng in a much more interesting way. The country of focus, Japan, is represented as a darker color in order to stand out. I didn't really see a need to change the rest of the country colors because I think fading them was sufficient to de-emphasize them. I also purposefully kept the y-axis with a max of 240 because it adds a little drama when Japan is literally almost "off the chart," which affirms the story being told. This type of chart is great for comparing a single variable to a group of variables, as is being done here, but might not work if each variable needs to be given equal attention.
 
 Reference: https://data.oecd.org/gga/general-government-debt.htm
+
+
+[Back to main portfoilo](/jamila-portfolio.md)
