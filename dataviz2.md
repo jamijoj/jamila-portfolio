@@ -21,4 +21,4 @@ The final visualization is 4D, as it includes the element of time. It is an anim
 Reference: https://data.oecd.org/gga/general-government-debt.htm
 
 
-[Back to main portfoilo](/jamila-portfolio.md)
+[Back to main portfoilo](jamila-portfolio.md)
