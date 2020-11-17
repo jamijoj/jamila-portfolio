@@ -9,3 +9,5 @@ In this class I hope to learn how to combine basic design skills and data to qui
 
 # Portfolio:
 [Assignment 2: Visualizing Government Debt](dataviz2.md)
+
+[Assignment 3: Critique by Design](dataviz3&4.md)
