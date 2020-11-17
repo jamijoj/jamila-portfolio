@@ -1,8 +1,7 @@
 
 # Assignment 3&4: Critique by Design
 
-![image](https://user-images.githubusercontent.com/73584997/99440489-a755ba80-28e4-11eb-8799-320e8d59d18a.png)
-
+![image](https://user-images.githubusercontent.com/73584997/99441873-84c4a100-28e6-11eb-8b67-c4e69314b4f0.png)
 Source: Cole, John G. “The Countries that Pay the Most and Least for Lego.” The Toy Zone.com. Accessed 14 November 2020.  [https://thetoyzone.com/the-countries-that-pay-the-most-and-least-for-lego](https://thetoyzone.com/the-countries-that-pay-the-most-and-least-for-lego)
 
 I found this visualization online and decided to use it for my critique because it’s on quite an original topic, global Lego prices, but the visualization has a lot of room for improvement. I actually really liked how the visualization employed a Lego overlay. It’s eye catching and fits with the theme of the article and of the entire site. But it loses a LOT of points for everything else. There are way too many numbers and lines, the color scheme makes no sense, there’s tons of redundancy, and the “highlighted” information isn’t apparent at all since every other element is shouting for attention.  I decided to redo the graph to make it easier to understand. 
@@ -28,8 +27,7 @@ The original visualization scored relatively well in the areas regarding what in
 
 The next step in the process was wireframing a solution. I first assembled the raw data into a single dataset and cleaned it. After that, I spent some time trying to decide what tool would be best for wireframing a solution. In the end I landed on using flourish.studio and sketching. 
 
-![image](https://user-images.githubusercontent.com/73584997/99441447-e0daf580-28e5-11eb-8200-18ff6f76370c.png)
-![image](https://user-images.githubusercontent.com/73584997/99441085-690ccb00-28e5-11eb-9d97-b237f90a8340.png)
+![image](https://user-images.githubusercontent.com/73584997/99442023-ba698a00-28e6-11eb-873d-11685deec341.png) ![image](https://user-images.githubusercontent.com/73584997/99442057-c7867900-28e6-11eb-865d-eecb398eb92a.png)
 
 I quickly put together these graphs in Flourish to give me a better idea of how to best arrange the data. Since it is comparative, static data, I decided a bar chart would be best. I first thought of grouping the countries by region, but realized that detracted from the story, which was centered on the countries. I did a bar chart by price of Lego per country, then began to come up with ideas of how to best communicate the message.
 
