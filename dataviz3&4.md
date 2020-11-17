@@ -58,7 +58,7 @@ I was happy to see that everyone automatically knew that the graph was a compari
 &nbsp;   
 ### 4. Final visualization
  
-The final step in the process was redoing the visualization. After fiddling around with different products including Excel, Flourish Studio, and Datawrapper.de, I finally settled on using Tableau. In my wireframe I had the data represented as a horizonal bar chart. I quickly realized I couldn’t do this well in Tableau, probably due to my limited experience with it, because I couldn’t figure out how to adjust the spacing between the bars so that the data fit without feeling crowded. I decided to use a vertical bar chart and came up with two solutions based off of it:
+The final step in the process was redoing the visualization. After fiddling around with different products including Excel, Flourish Studio, and Datawrapper.de, I finally settled on using Tableau. In my wireframe I had the data represented as a horizonal bar chart. I quickly realized I couldn’t do this well in Tableau due to my limited experience with it because I couldn’t figure out how to adjust the spacing between the bars so that the data fit without feeling crowded. I decided to use a vertical bar chart and came up with two solutions based off of it:
  
  
 ### Solution 1:
@@ -74,7 +74,7 @@ I grayed out all of the datapoints except the US, Hong Kong (the lowest price) a
 ###### Data source: https://thetoyzone.com/the-countries-that-pay-the-most-and-least-for-lego  
 &nbsp;   
 
-I also wanted to try adding the color scale to my graph, to give the feeling of getting worse with increase. In my wireframe I planned a diverging scale but decided against it in the end. Remembering my audience, changed the font to be a little more “fun” to fit in with the theme of a toy review website. Finally, I really liked how the original data visualization used a Lego themed overlay, so I did the same with this graph. I wish it were more noticeable, and I think with a professional software like Adobe Photoshop it would have rendered better, but then again perhaps a subtle effect is more effective. 
+I also wanted to try adding the color scale to my graph, to give the feeling of getting worse with increase. In my wireframe I planned a diverging scale but decided against it in the end. Remembering my audience, I changed the font to be a little more “fun” to fit in with the theme of a toy review website. Finally, I really liked how the original data visualization used a Lego themed overlay, so I did the same with this graph. I wish it were more noticeable, and I think with a professional software like Adobe Photoshop it would have rendered better, but then again perhaps a subtle effect is more effective. 
 &nbsp;   
 &nbsp;    
 I think both these solutions work for different audiences. In fact, I went back to the same users I worked with for the wireframe and they were evenly split between which solution was most effective. In the end, for a toy review website, I would probably go with Solution 2. 
