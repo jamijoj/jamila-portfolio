@@ -63,10 +63,14 @@ I was happy to see that everyone automatically knew that the graph was a compari
 The final step in the process was redoing the visualization. After fiddling around with different products including Excel, Flourish Studio, and Datawrapper.de, I finally settled on using Tableau. In my wireframe I had the data represented as a horizonal bar chart. I quickly realized I couldn’t do this well in Tableau, probably due to my limited experience with it, because I couldn’t figure out how to adjust the spacing between the bars so that the data fit without feeling crowded. I decided to use a vertical bar chart and came up with two solutions based off of it:
 
 
+
+
 #### Solution 1:
 ![image](https://user-images.githubusercontent.com/73584997/99442680-b5590a80-28e7-11eb-943f-99dfbb3b4833.png)
 
 I grayed out all of the datapoints except the US, Hong Kong (the lowest price) and Ecuador (the highest price).
+
+
 
 
 
