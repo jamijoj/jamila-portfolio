@@ -76,6 +76,6 @@ I grayed out all of the datapoints except the US, Hong Kong (the lowest price) a
 
 I also wanted to try adding the color scale to my graph, to give the feeling of getting worse with increase. In my wireframe I planned a diverging scale but decided against it in the end. Remembering my audience, changed the font to be a little more “fun” to fit in with the theme of a toy review website. Finally, I really liked how the original data visualization used a Lego themed overlay, so I did the same with this graph. I wish it were more noticeable, and I think with a professional software like Adobe Photoshop it would have rendered better, but then again perhaps a subtle effect is more effective. 
 &nbsp;   
-&nbsp;  
-I think both these solutions are effective for different audiences. In fact, I went back to the same users I worked with for the wireframe and they were evenly split between which solution was most effective. In the end, for a toy review website, I would probably go with Solution 2. 
+&nbsp;    
+I think both these solutions work for different audiences. In fact, I went back to the same users I worked with for the wireframe and they were evenly split between which solution was most effective. In the end, for a toy review website, I would probably go with Solution 2. 
 
