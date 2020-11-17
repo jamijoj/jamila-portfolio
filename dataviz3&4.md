@@ -12,7 +12,7 @@ I found this visualization online and decided to use it for my critique because 
 
 1. Critique
 
-The first step in the process was completing a critique using Stephen Few's [Data Visualization Effectiveness Profile.] (http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) I scored the visualization as follows:
+The first step in the process was completing a critique using Stephen Few's [Data Visualization Effectiveness Profile.](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) I scored the visualization as follows:
 
   - Usefulness: 8
   - Completeness: 6
@@ -28,8 +28,8 @@ The original visualization scored relatively well in the areas regarding what in
 
 The next step in the process was wireframing a solution. I first assembled the raw data into a single dataset and cleaned it. After that, I spent some time trying to decide what tool would be best for wireframing a solution. In the end I landed on using flourish.studio and sketching. 
 
-![image](https://user-images.githubusercontent.com/73584997/99440635-d9671c80-28e4-11eb-9a86-55b6f4d7d8eb.png)
-![image](https://user-images.githubusercontent.com/73584997/99440741-fdc2f900-28e4-11eb-959b-285737402788.png)
+![image](https://user-images.githubusercontent.com/73584997/99441447-e0daf580-28e5-11eb-8200-18ff6f76370c.png)
+![image](https://user-images.githubusercontent.com/73584997/99441085-690ccb00-28e5-11eb-9d97-b237f90a8340.png)
 
 I quickly put together these graphs in Flourish to give me a better idea of how to best arrange the data. Since it is comparative, static data, I decided a bar chart would be best. I first thought of grouping the countries by region, but realized that detracted from the story, which was centered on the countries. I did a bar chart by price of Lego per country, then began to come up with ideas of how to best communicate the message.
 
