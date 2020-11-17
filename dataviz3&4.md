@@ -73,7 +73,6 @@ I grayed out all of the datapoints except the US, Hong Kong (the lowest price) a
 ![image](https://user-images.githubusercontent.com/73584997/99442785-dc174100-28e7-11eb-8ec0-95e74ffa6e35.png)
 ###### Data source: https://thetoyzone.com/the-countries-that-pay-the-most-and-least-for-lego  
 &nbsp;   
-
 I also wanted to try adding the color scale to my graph, to give the feeling of getting worse with increase. In my wireframe I planned a diverging scale but decided against it in the end. Remembering my audience, I changed the font to be a little more “fun” to fit in with the theme of a toy review website. Finally, I really liked how the original data visualization used a Lego themed overlay, so I did the same with this graph. I wish it were more noticeable, and I think with a professional software like Adobe Photoshop it would have rendered better, but then again perhaps a subtle effect is more effective. 
 &nbsp;   
 &nbsp;    
