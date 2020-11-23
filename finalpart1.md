@@ -63,8 +63,35 @@ Connect with this next generation of donors on their level to make a case for fu
 -Greatest prefer voice calls and direct mail. These donors are late adopters of email and do not typically use text messaging or social media.
 -Greatest are most likely to give through direct mail campaigns and donate physical goods.
 
-Call to Action
+### Call to Action
 Older generations still represent the largest source of funding for nonprofits for now, but younger generations are upcoming. Incorporate new strategies to cultivate new donors from younger generations by appealing to their interests – social interaction – and their motivations for giving (community, equality, child, and health initiatives.) Connect to them using methods they will respond to (social media, text messaging, email).
+
+
+# Data Sources
+
+The datasets I will use for this project come from four sources: Culture Track, the National Endowment for the Arts, Americans for the Arts, and Our World in Data. 
+
+Culture Track is an arts and culture tracking survey delivered by arts consulting firm LaPlaca Cohen. The survey focuses on the attitudes and behaviors of cultural consumers in the US. I have sourced two datasets from Culture Track; the first is the result of a survey about trends in arts and culture audiences and was released in 2017. The second provides information on cultural consumers’ responses to the COVID crisis. I will use information from these datasets to compare younger generations to older generations on participating in the arts now and pre-COVID, and on motivations to donating. of Both datasets are publicly accessible and can be found here: https://culturetrack.com/research/reports/
+
+The National Endowment for the arts in a federal agency that supports the arts. They put out a survey periodically to record adult participation in the arts, the Survey of Public Participation in the Arts (SPPA). I will use the information from this source to determine what activities different generations are participating in, and with what frequency. The raw data from the survey is available in a publicly accessible dataset here: 
+https://www.arts.gov/impact/research/publications/us-patterns-arts-participation-full-report-2017-survey-public-participation-arts
+
+A third source I’ll use is Americans for the Arts. Americans for the Arts is a nonprofit dedicated to advancing the arts in the US. They put out a survey to collect perceptions and attitudes about the arts. I will use this source to determine general sentiment toward different art forms per age group, and how this affects motivations to donate. The raw data from this survey is publicly available here: https://www.ipsos.com/sites/default/files/ct/news/documents/2018-09/americans-for-the-arts-report-09-27-2018_0.pdf
+
+Finally, I’ll download a dataset from Our World in Data on population growth in the US, by age group. I will use this at the beginning of my presentation to make the point that the number of people in older generations is shrinking, and younger generations are growing. This information is publicly available here: https://ourworldindata.org/world-population-growth
+ 
+
+Other sources
+
+I will use other sources to reference specific statistics for the project. Though these are not in the form of datasets, they provide valuable information. These are an article by Katherine Boyle from the Washington Post, “Cultivating the Next Generation of Ars Donors,”  (https://www.washingtonpost.com/lifestyle/style/cultivating-the-next-generation-of-arts-donors/2012/10/18/5a457fa0-f85f-11e1-8b93-c4f4ab1c8d13_story.html)
+and a page from NonprofitSource.com highlighting important giving statistics for the year 2018: https://nonprofitssource.com/online-giving-statistics/
+
+
+# Method and Medium
+
+The first step of this project will be to process the data into visualizations that tell the story I want to tell. I plan to use a combination of Tableau and Flourish Studio to create the visualizations from the datasets I previously identified. I will also include pictures sourced from open sources which I plan to research using the list provided by the library: https://guides.library.cmu.edu/usingimages. I might also use GIMP, a photo manipulation software, to further enhance my visualizations by adding extra elements. 
+
+To present my project I plan to use Shorthand. I think that Shorthand is a good choice because it allows creative transitions from one visualization to the next. It also allows for the incorporation of text in a way that flows and doesn’t bore the reader. I’ll probably start with a Shorthand template and adjust slides to fit the flow in my sketched outline. 
 
 
 
