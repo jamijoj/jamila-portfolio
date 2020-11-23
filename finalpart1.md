@@ -2,24 +2,24 @@
 
 # As the Donor Base Gets Younger, Arts and Culture Institutes Must Shift Their Focus
 
-# High level overview
+## High level overview
 This project will explore, through data visualization, changing demographics of non-profits’ donors in the US, their likes and dislikes, their motivations for participating in the arts, and their motivations for donating. It will draw on data from the National Endowment for the Arts and from Culture Track. The target group for this story is anyone who works in arts and culture nonprofits in the US.
 
-# What is the aim/target of the story?
+## What is the aim/target of the story?
 The target of the story is to show how the arts donor base is getting younger and how their motivations for participating in and donating to the arts are more based on socializing and doing good rather than prestige. 
 After viewing the presentation, the reader should feel the urge to rethink their donor cultivation strategies and their donor prospects. 
 
-# Project Structure: Key Topics/Points 
+## Project Structure: Key Topics/Points 
 
-## SET UP
+### SET UP
 
-### The US population is getting younger
+#### The US population is getting younger
 
 The US population is changing, people age 25-64 are the  [fastest growing group](https://ourworldindata.org/world-population-growth)
 
-## CONFLICT
+### CONFLICT
 
-### The nonprofit arts/culture industry is reliant on old money, and cultivates prospects according to this, but potential donors are getting younger
+#### The nonprofit arts/culture industry is reliant on old money, and cultivates prospects according to this, but potential donors are getting younger
 
 - “Older generations have always been the bread and butter of individual arts giving, but demographic shifts suggest that middle-aged benefactors could become just as important.”
 - “According to the Federal Reserve’s Survey of Consumer Finances, wealth in America is shifting, with more millionaires in their 50s than in their 60s”
@@ -27,7 +27,7 @@ The US population is changing, people age 25-64 are the  [fastest growing group]
 Source: https://www.washingtonpost.com/lifestyle/style/cultivating-the-next-generation-of-arts-donors/2012/10/18/5a457fa0-f85f-11e1-8b93-c4f4ab1c8d13_story.html
 
 
-### Younger generations and older generations differ on their reasons for participating in the arts and donating to the arts. 
+#### Younger generations and older generations differ on their reasons for participating in the arts and donating to the arts. 
 
 Why are younger generations attracted to the arts?
 - Social and interactive (millennial/gen x) vs Lively/Calm (baby boomer/prewar)
@@ -52,7 +52,7 @@ How much are they donating, on average?
 Source: https://nonprofitssource.com/online-giving-statistics/
 
 
-## RESOLUTION
+### RESOLUTION
 
 Connect with this next generation of donors on their level to make a case for funding
 - Millennials are active on their phones and respond best to text message and social media, but rarely check personal email or respond to voice calls.
@@ -66,10 +66,10 @@ Connect with this next generation of donors on their level to make a case for fu
 Source: https://nonprofitssource.com/online-giving-statistics/
 
 
-### Call to Action
+#### Call to Action
 Older generations still represent the largest source of funding for nonprofits for now, but younger generations are upcoming. Incorporate new strategies to cultivate new donors from younger generations by appealing to their interests – social interaction – and their motivations for giving (community, equality, child, and health initiatives.) Connect to them using methods they will respond to (social media, text messaging, email).
 
-# Initial Sketches
+## Initial Sketches
 
 I want my presentation to be engaging and visually interesting to hold the viewer's attention on a topic that is arguably not the most interesting. I'll employ the use of creative visualizations and transitions to accomplish this. These are initial sketches of the flow of the presentation. 
 
@@ -81,7 +81,7 @@ I want my presentation to be engaging and visually interesting to hold the viewe
 
 
 
-# Data Sources
+## Data Sources
 
 The datasets I will use for this project come from four sources: Culture Track, the National Endowment for the Arts, Americans for the Arts, and Our World in Data. 
 
@@ -101,14 +101,14 @@ I will use other sources to reference specific statistics for the project. Thoug
 and a page from NonprofitSource.com highlighting important [giving statistics for the year 2018.](https://nonprofitssource.com/online-giving-statistics/)
 
 
-# Method and Medium
+## Method and Medium
 
-The first step of this project will be to process the data into visualizations that tell the story I want to tell. I plan to use a combination of Tableau and Flourish Studio to create the visualizations from the datasets I previously identified. I will also include pictures sourced from open sources which I plan to research using the list provided by the library: https://guides.library.cmu.edu/usingimages. I might also use GIMP, a photo manipulation software, to further enhance my visualizations by adding extra elements. 
+The first step of this project will be to process the data into visualizations that tell the story I want to tell. I plan to use a combination of Tableau and Flourish Studio to create the visualizations from the datasets I previously identified. I will also include pictures sourced from open sources which I plan to research using the [list provided by the CMU library](https://guides.library.cmu.edu/usingimages). I might also use GIMP, a photo manipulation software, to further enhance my visualizations by adding extra elements. 
 
 To present my project I plan to use Shorthand. I think that Shorthand is a good choice because it allows creative transitions from one visualization to the next. It also allows for the incorporation of text in a way that flows and doesn’t bore the reader. I’ll probably start with a Shorthand template and adjust slides to fit the flow in my sketched outline. 
 
 
-##### [Back to main portfolio](README.md)
+###### [Back to main portfolio](README.md)
 
 
 
