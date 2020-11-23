@@ -24,8 +24,7 @@ The US population is changing; people age 25-64 are the  [fastest growing group]
 - “Older generations have always been the bread and butter of individual arts giving, but demographic shifts suggest that middle-aged benefactors could become just as important.”
 - “According to the Federal Reserve’s Survey of Consumer Finances, wealth in America is shifting, with more millionaires in their 50s than in their 60s”
 - “But young philanthropists do give widely to education and community development programs; experts are finding that they donate to arts institutions that champion education.” &nbsp;    
-Source: https://www.washingtonpost.com/lifestyle/style/cultivating-the-next-generation-of-arts-donors/2012/10/18/5a457fa0-f85f-11e1-8b93-c4f4ab1c8d13_story.html
-
+Source: <https://www.washingtonpost.com/lifestyle/style/cultivating-the-next-generation-of-arts-donors/2012/10/18/5a457fa0-f85f-11e1-8b93-c4f4ab1c8d13_story.html>
 
 #### Younger generations and older generations differ on their reasons for participating in the arts and donating to the arts. 
 
@@ -50,7 +49,7 @@ How much are they donating, on average?
 - 11% of total US giving comes from Millennials, 84% of Millennials give to charity, donating an annual average of $481 across 3.3 organizations
 - 72% of Boomers give to charity, donating an annual average of $1,212 across 4.5 organizations.
 - 26% of total US giving comes from the Greatest Gen; 88% of the Greatest gen gives to charity, donating an annual average of $1,367 across 6.2 organizations. &nbsp;  
-Source: https://nonprofitssource.com/online-giving-statistics/
+Source: <https://nonprofitssource.com/online-giving-statistics/>
 
 
 ### RESOLUTION
@@ -64,7 +63,7 @@ Connect with this next generation of donors on their level to make a case for fu
 - Boomers are most likely to make recurring donations on a monthly, quarterly, or yearly basis.
 - Pre-war prefer voice calls and direct mail. These donors are late adopters of email and do not typically use text messaging or social media.
 - Pre-war are most likely to give through direct mail campaigns and donate physical goods. &nbsp;  
-Source: https://nonprofitssource.com/online-giving-statistics/
+Source: <https://nonprofitssource.com/online-giving-statistics/>
 
 
 #### Call to Action
@@ -86,14 +85,14 @@ I want my presentation to be engaging and visually interesting to hold the viewe
 
 The datasets I will use for this project come from four sources: Culture Track, the National Endowment for the Arts, Americans for the Arts, and Our World in Data. 
 
-Culture Track is an arts and culture tracking survey delivered by arts consulting firm LaPlaca Cohen. The survey focuses on the attitudes and behaviors of cultural consumers in the US. I have sourced two datasets from Culture Track; the first is the result of a survey about trends in arts and culture audiences and was released in 2017. The second provides information on cultural consumers’ responses to the COVID crisis. I will use information from these datasets to compare younger generations to older generations on participating in the arts now and pre-COVID, and on motivations to donating. of Both datasets are publicly accessible and can be found here: https://culturetrack.com/research/reports/
+Culture Track is an arts and culture tracking survey delivered by arts consulting firm LaPlaca Cohen. The survey focuses on the attitudes and behaviors of cultural consumers in the US. I have sourced two datasets from Culture Track; the first is the result of a survey about trends in arts and culture audiences and was released in 2017. The second provides information on cultural consumers’ responses to the COVID crisis. I will use information from these datasets to compare younger generations to older generations on participating in the arts now and pre-COVID, and on motivations to donating. of Both datasets are publicly accessible and can be found here: <https://culturetrack.com/research/reports/>
 
 The National Endowment for the arts in a federal agency that supports the arts. They put out a survey periodically to record adult participation in the arts, the Survey of Public Participation in the Arts (SPPA). I will use the information from this source to determine what activities different generations are participating in, and with what frequency. The raw data from the survey is available in a publicly accessible dataset here: 
-https://www.arts.gov/impact/research/publications/us-patterns-arts-participation-full-report-2017-survey-public-participation-arts
+<https://www.arts.gov/impact/research/publications/us-patterns-arts-participation-full-report-2017-survey-public-participation-arts>
 
-A third source I’ll use is Americans for the Arts. Americans for the Arts is a nonprofit dedicated to advancing the arts in the US. They put out a survey to collect perceptions and attitudes about the arts. I will use this source to determine general sentiment toward different art forms per age group, and how this affects motivations to donate. The raw data from this survey is publicly available here: https://www.ipsos.com/sites/default/files/ct/news/documents/2018-09/americans-for-the-arts-report-09-27-2018_0.pdf
+A third source I’ll use is Americans for the Arts. Americans for the Arts is a nonprofit dedicated to advancing the arts in the US. They put out a survey to collect perceptions and attitudes about the arts. I will use this source to determine general sentiment toward different art forms per age group, and how this affects motivations to donate. The raw data from this survey is publicly available here: <https://www.ipsos.com/sites/default/files/ct/news/documents/2018-09/americans-for-the-arts-report-09-27-2018_0.pdf>
 
-Finally, I’ll download a dataset from Our World in Data on population growth in the US, by age group. I will use this at the beginning of my presentation to make the point that the number of people in older generations is shrinking, and younger generations are growing. This information is publicly available here: https://ourworldindata.org/world-population-growth
+Finally, I’ll download a dataset from Our World in Data on population growth in the US, by age group. I will use this at the beginning of my presentation to make the point that the number of people in older generations is shrinking, and younger generations are growing. This information is publicly available here: <https://ourworldindata.org/world-population-growth>
  
 
 Other sources
