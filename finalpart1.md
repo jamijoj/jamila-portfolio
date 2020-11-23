@@ -79,7 +79,7 @@ I want my presentation to be engaging and visually interesting to hold the viewe
 ![IMG20201123170034](https://user-images.githubusercontent.com/73584997/99929527-8eea0380-2d1b-11eb-84c3-14bdecc9d87d.jpg)
 ![IMG20201123170043](https://user-images.githubusercontent.com/73584997/99929532-93162100-2d1b-11eb-81ec-0c5fe98f09ff.jpg)
 
-
+&nbsp;  
 
 
 ## Data Sources
@@ -101,7 +101,7 @@ Other sources
 I will use other sources to reference specific statistics for the project. Though these are not in the form of datasets, they provide valuable information. These are an article by Katherine Boyle from the Washington Post, [“Cultivating the Next Generation of Ars Donors,”](https://www.washingtonpost.com/lifestyle/style/cultivating-the-next-generation-of-arts-donors/2012/10/18/5a457fa0-f85f-11e1-8b93-c4f4ab1c8d13_story.html)
 and a page from NonprofitSource.com highlighting important [giving statistics for the year 2018.](https://nonprofitssource.com/online-giving-statistics/)
 
-
+&nbsp;  
 ## Method and Medium
 
 The first step of this project will be to process the data into visualizations that tell the story I want to tell. I plan to use a combination of Tableau and Flourish Studio to create the visualizations from the datasets I previously identified. I will also include pictures sourced from open sources which I plan to research using the [list provided by the CMU library](https://guides.library.cmu.edu/usingimages). I might also use GIMP, a photo manipulation software, to further enhance my visualizations by adding extra elements. 
