@@ -66,6 +66,17 @@ Connect with this next generation of donors on their level to make a case for fu
 ### Call to Action
 Older generations still represent the largest source of funding for nonprofits for now, but younger generations are upcoming. Incorporate new strategies to cultivate new donors from younger generations by appealing to their interests – social interaction – and their motivations for giving (community, equality, child, and health initiatives.) Connect to them using methods they will respond to (social media, text messaging, email).
 
+# Initial Sketches
+
+I want my presentation to be engaging and visually interesting to hold the viewer's attention on a topic that is arguably not the most interesting. I'll employ the use of creative visualizations and transitions to accomplish this. These are initial sketches of the flow of the presentation. 
+
+![IMG20201123170017](https://user-images.githubusercontent.com/73584997/99929536-94dfe480-2d1b-11eb-92b4-4ff4d78825d8.jpg)
+![IMG20201123170025](https://user-images.githubusercontent.com/73584997/99929538-97dad500-2d1b-11eb-8abb-c05b3c2dfb16.jpg)
+![IMG20201123170034](https://user-images.githubusercontent.com/73584997/99929527-8eea0380-2d1b-11eb-84c3-14bdecc9d87d.jpg)
+![IMG20201123170043](https://user-images.githubusercontent.com/73584997/99929532-93162100-2d1b-11eb-81ec-0c5fe98f09ff.jpg)
+
+
+
 
 # Data Sources
 
