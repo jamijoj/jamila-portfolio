@@ -14,5 +14,5 @@ After viewing the presentation, the reader should feel the urge to rethink their
 
 ### The US population is getting younger
 
-The US population is changing, people age 25-64 are the [fastest growing group (https://ourworldindata.org/world-population-growth)
+The US population is changing, people age 25-64 are the [fastest growing group] (https://ourworldindata.org/world-population-growth)
 
