@@ -1,5 +1,4 @@
-# Project Name:
-“As the Donor Base Gets Younger, Arts and Culture Institutes Must Shift Their Focus”
+# Project Name: ## “As the Donor Base Gets Younger, Arts and Culture Institutes Must Shift Their Focus”
 
 # High level overview
 This project will explore, through data visualization, changing demographics of non-profits’ donors in the US, their likes and dislikes, their motivations for participating in the arts, and their motivations for donating. It will draw on data from the National Endowment for the Arts and from Culture Track. The target group for this story is anyone who works in arts and culture nonprofits in the US.
@@ -103,6 +102,9 @@ and a page from NonprofitSource.com highlighting important giving statistics for
 The first step of this project will be to process the data into visualizations that tell the story I want to tell. I plan to use a combination of Tableau and Flourish Studio to create the visualizations from the datasets I previously identified. I will also include pictures sourced from open sources which I plan to research using the list provided by the library: https://guides.library.cmu.edu/usingimages. I might also use GIMP, a photo manipulation software, to further enhance my visualizations by adding extra elements. 
 
 To present my project I plan to use Shorthand. I think that Shorthand is a good choice because it allows creative transitions from one visualization to the next. It also allows for the incorporation of text in a way that flows and doesn’t bore the reader. I’ll probably start with a Shorthand template and adjust slides to fit the flow in my sketched outline. 
+
+
+##### [Back to main portfolio](README.md)
 
 
 
