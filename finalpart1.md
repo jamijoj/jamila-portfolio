@@ -62,7 +62,9 @@ Connect with this next generation of donors on their level to make a case for fu
 - Boomers answer voice calls, check email regularly, and use text messaging and social media. Though initially slow to adopt new technology, they take to it quickly once they do.
 - Boomers are most likely to make recurring donations on a monthly, quarterly, or yearly basis.
 - Pre-war prefer voice calls and direct mail. These donors are late adopters of email and do not typically use text messaging or social media.
-- Pre-war are most likely to give through direct mail campaigns and donate physical goods.
+- Pre-war are most likely to give through direct mail campaigns and donate physical goods. &nbsp;  
+Source: https://nonprofitssource.com/online-giving-statistics/
+
 
 ### Call to Action
 Older generations still represent the largest source of funding for nonprofits for now, but younger generations are upcoming. Incorporate new strategies to cultivate new donors from younger generations by appealing to their interests – social interaction – and their motivations for giving (community, equality, child, and health initiatives.) Connect to them using methods they will respond to (social media, text messaging, email).
@@ -95,8 +97,8 @@ Finally, I’ll download a dataset from Our World in Data on population growth i
 
 Other sources
 
-I will use other sources to reference specific statistics for the project. Though these are not in the form of datasets, they provide valuable information. These are an article by Katherine Boyle from the Washington Post, “Cultivating the Next Generation of Ars Donors,”  (https://www.washingtonpost.com/lifestyle/style/cultivating-the-next-generation-of-arts-donors/2012/10/18/5a457fa0-f85f-11e1-8b93-c4f4ab1c8d13_story.html)
-and a page from NonprofitSource.com highlighting important giving statistics for the year 2018: https://nonprofitssource.com/online-giving-statistics/
+I will use other sources to reference specific statistics for the project. Though these are not in the form of datasets, they provide valuable information. These are an article by Katherine Boyle from the Washington Post, [“Cultivating the Next Generation of Ars Donors,”](https://www.washingtonpost.com/lifestyle/style/cultivating-the-next-generation-of-arts-donors/2012/10/18/5a457fa0-f85f-11e1-8b93-c4f4ab1c8d13_story.html)
+and a page from NonprofitSource.com highlighting important [giving statistics for the year 2018.](https://nonprofitssource.com/online-giving-statistics/)
 
 
 # Method and Medium
