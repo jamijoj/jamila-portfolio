@@ -1,5 +1,6 @@
-# Project Name: 
-## “As the Donor Base Gets Younger, Arts and Culture Institutes Must Shift Their Focus”
+# Final Project: Part 1
+
+# Project Name: “As the Donor Base Gets Younger, Arts and Culture Institutes Must Shift Their Focus”
 
 # High level overview
 This project will explore, through data visualization, changing demographics of non-profits’ donors in the US, their likes and dislikes, their motivations for participating in the arts, and their motivations for donating. It will draw on data from the National Endowment for the Arts and from Culture Track. The target group for this story is anyone who works in arts and culture nonprofits in the US.
