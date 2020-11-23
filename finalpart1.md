@@ -37,6 +37,7 @@ What are they participating in?
 
 With the drive online due to COVID, has this changed? 
 - No, in fact, people report missing spending time with family and friends as something they miss most
+&nbsp;  
 
 Donating patterns
 
