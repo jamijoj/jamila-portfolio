@@ -23,7 +23,7 @@ The US population is changing, people age 25-64 are the  [fastest growing group]
 
 - “Older generations have always been the bread and butter of individual arts giving, but demographic shifts suggest that middle-aged benefactors could become just as important.”
 - “According to the Federal Reserve’s Survey of Consumer Finances, wealth in America is shifting, with more millionaires in their 50s than in their 60s”
-- “But young philanthropists do give widely to education and community development programs; experts are finding that they donate to arts institutions that champion education.”
+- “But young philanthropists do give widely to education and community development programs; experts are finding that they donate to arts institutions that champion education.” &nbsp;    
 Source: https://www.washingtonpost.com/lifestyle/style/cultivating-the-next-generation-of-arts-donors/2012/10/18/5a457fa0-f85f-11e1-8b93-c4f4ab1c8d13_story.html
 
 
@@ -48,7 +48,7 @@ How much are they donating, on average?
 - More Millennials donate, but average a lesser amount
 - 11% of total US giving comes from Millennials, 84% of Millennials give to charity, donating an annual average of $481 across 3.3 organizations
 - 72% of Boomers give to charity, donating an annual average of $1,212 across 4.5 organizations.
-- 26% of total US giving comes from the Greatest Gen; 88% of the Greatest gen gives to charity, donating an annual average of $1,367 across 6.2 organizations. 
+- 26% of total US giving comes from the Greatest Gen; 88% of the Greatest gen gives to charity, donating an annual average of $1,367 across 6.2 organizations. &nbsp;  
 Source: https://nonprofitssource.com/online-giving-statistics/
 
 
