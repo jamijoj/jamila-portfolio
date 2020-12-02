@@ -13,3 +13,5 @@ In this class I hope to learn how to combine basic design skills and data to qui
 [Assignment 3 & 4: Critique by Design](dataviz3&4.md)
 
 [Final Project: Part 1](finalpart1.md)
+
+[Final Project: Part 2](finalpart2.md)
