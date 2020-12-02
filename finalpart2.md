@@ -26,13 +26,13 @@ Intro:
 Main (ask questions):
 “I’ll give you a few minutes to look over this wireframe of the presentation. This outlines the visuals and flow of the presentation.”
 (after a few minutes).
-“Now I just have a few questions:”
-•	Who do you think this presentation is for?
-•	Can you tell me the problem being conveyed?
-•	Can you tell me the proposed solution to the problem?
-•	Do you feel the data is compelling enough to motivate the viewer to follow the solution? Why or why not? 
-•	Did anything surprise or confuse you? 
-•	Is there anything you would change or do differently?
+“Now I just have a few questions:" (ask the following questions)
+- Who do you think this presentation is for? 
+- Can you tell me the problem being conveyed?
+- Can you tell me the proposed solution to the problem?
+- Do you feel the data is compelling enough to motivate the viewer to follow the solution? Why or why not? 
+- Did anything surprise or confuse you? 
+- Is there anything you would change or do differently?
 
 Wrap Up:
 “Do you have any follow up questions or suggestions for me?” (if yes, take notes).
