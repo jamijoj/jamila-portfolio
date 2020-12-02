@@ -17,6 +17,7 @@ People who work in nonprofits, specifically in fundraising.
 All three members of the sample group are known to the author as professionals in the field of nonprofit fundraising.
 
 ### Research Goals
+
 |     Goal        |     Questions     |
 | :------------------ | :------------------ | 
 |Evaluate if the message is clear.|Who do you think this presentation is for? Can you tell me the problem being conveyed?|
