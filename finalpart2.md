@@ -19,10 +19,10 @@ All three members of the sample group are known to the author as professionals i
 ### Research Goals
 |     Goal        |     Questions     |
 | :------------------ | :------------------ | 
-|Evaluate if the message is clear.|Who do you think this presentation is for? Can you tell me the problem being conveyed?
-Determine if the call to action is clear.	| Can you tell me the proposed solution to the problem?
-Evaluate the success of the data visualizations.| Do you feel the data is compelling enough to motivate the viewer to follow the solution? Why or why not?
-Prioritize what to fix.|Did anything surprise or confuse you? Is there anything you would change or do differently?
+|Evaluate if the message is clear.|Who do you think this presentation is for? Can you tell me the problem being conveyed?|
+|Determine if the call to action is clear.	| Can you tell me the proposed solution to the problem?|
+|Evaluate the success of the data visualizations.| Do you feel the data is compelling enough to motivate the viewer to follow the solution? Why or why not?|
+|Prioritize what to fix.|Did anything surprise or confuse you? Is there anything you would change or do differently?|
 
 ### Interview script
 Intro: 
