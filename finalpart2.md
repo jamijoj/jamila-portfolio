@@ -4,7 +4,7 @@
 # As the Donor Base Gets Younger, Arts and Culture Institutes Must Shift Their Focus
 
 ## Wireframes/Storyboard
-This shows the high-fidelity, individual draft visualizations of the critical elements of the sotry. The storyboard shows the flow of the story, with the wireframes integrated. 
+This shows the high-fidelity, individual draft visualizations of the critical elements of the story. The storyboard shows the flow of the story, with the wireframes integrated. 
 ![Part II1](https://user-images.githubusercontent.com/73584997/100828201-90f34700-342c-11eb-9331-990bb6b1e9e9.png)
 
 
