@@ -104,10 +104,81 @@ To present my project I plan to use Shorthand. I think that Shorthand is a good 
 This shows the high-fidelity, individual draft visualizations of the critical elements of the story. The storyboard shows the flow of the story, with the wireframes integrated. 
 ![Part II1](https://user-images.githubusercontent.com/73584997/100828201-90f34700-342c-11eb-9331-990bb6b1e9e9.png)
 
+#### User research protocol and findings
+
+##### Target Audience
+People who work in nonprofits, specifically in fundraising.
+
+##### Sample group
+All three members of the sample group are known to the author as professionals in the field of nonprofit fundraising.
+
+##### Research Goals
+
+|         Goal        |     Questions       |
+| :------------------ | :------------------ | 
+|Evaluate if the message is clear.|Who do you think this presentation is for? Can you tell me the problem being conveyed?|
+|Determine if the call to action is clear.	| Can you tell me the proposed solution to the problem?|
+|Evaluate the success of the data visualizations.| Do you feel the data is compelling enough to motivate the viewer to follow the solution? Why or why not?|
+|Prioritize what to fix.|Did anything surprise or confuse you? Is there anything you would change or do differently?|
+
+##### Interview script
+Intro: 
+“Thank you for agreeing to do this interview with me. I’m a Master’s student at CMU and I’m taking Telling Stories with Data, a class on Data Visualization. For this project we are creating a story with a call to action using data visualizations. I want to see how effective it is, so I just have a few questions for you.”
+
+Main (ask questions):
+“I’ll give you a few minutes to look over this wireframe of the presentation. This outlines the visuals and flow of the presentation.”
+(after a few minutes).
+“Now I just have a few questions:" (ask the following questions)
+- Who do you think this presentation is for? 
+- Can you tell me the problem being conveyed?
+- Can you tell me the proposed solution to the problem?
+- Do you feel the data is compelling enough to motivate the viewer to follow the solution? Why or why not? 
+- Did anything surprise or confuse you? 
+- Is there anything you would change or do differently?
+
+Wrap Up:
+“Do you have any follow up questions or suggestions for me?” (if yes, take notes).
+
+Thank the interviewee for their time, end the interview. 
 
 
+##### Interview findings and planned changes 
+
+|     Question        |     Key Findings     |   Planned changes     |
+| :------------------ | :------------------ | :-------------------- |
+|  Who do you think this presentation is for? | All users understood that the presentation was for those involved in fundraising in nonprofits.    |I think that the target audience is clear, so no changes needed in regard to this.    |
+|Can you tell me the problem being conveyed?  | Users understood that the main idea was that wealth was changing to younger donors. However, one user didn’t make the connection that nonprofits would be reliant on young donors soon.  | The overall problem is well understood but might need clarification. I can state explicitly that “nonprofits will be reliant on young donors soon.” |
+Can you tell me the proposed solution to the problem?|This was clear for all users. However, one user had trouble making the connection between the last slide listing potential events and the proposed solution. |Clarify the final slide by referencing the findings to make clear how they connect to the proposed events. Also clarify that the proposed events are a method to enact the solution. 
+Do you feel the data is compelling enough to motivate the viewer to follow the solution? Why or why not?|One user felt that the visualizations needed to be clarified and lacked context. |I plan to re-visualize the second graph as a unit chart to make it clear that these are proportions being represented, not percentages. I’ll also label the graphs with darker colors so that the labels are clearer. 
+Did anything surprise or confuse you? | One user mentioned they were confused at the “formula” used on the final slide (“children x social"). | This is something I’ll probably write out rather than trying to shorthand as the message is being misinterpreted as a mathematical formula.
+Is there anything you would change or do differently?|One user mentioned the importance of keeping the variables the same color. |This is something I’ve already been doing and will continue to do. 
+
+### Final Data Story
+As previously mentioned, the audience for this story is people who work in the arts, specifically in fundraising in the arts. The issue presented in the field is something that is talked about sometimes, but never really given focus. Fundraising efforts continue to be directed toward older generations (64+), meaning that younger generations are often passed over for some of the bigger donorship solicitations and appeals. This presentation aims to bring that to light by outlining how younger generations will soon be a major source of funding and showing how fundraisers can successfully solicit donations from younger donors. 
+There were no personas used in the user research process, but all of the interviewees were people who work in nonprofits fundraising. I got some valuable feedback from the users, the summary of which is located in the User Research and Protocol section. The key points that I got from the user research were that the graphs and charts needed to be better labelled, that the reason why switching to younger donors would be more beneficial wasn’t clear, and that the layout of the final slide that listed ideas for events and activities was confusing. 
+I suspected that the lack of clarity around why arts organizations should switch to focus on younger donors was due to the fact that users were looking at a storyboard with wireframes rather than seeing the story in its final form. But, just in case, I added in another slide with a stat mentioning how donations from younger people was on the rise. The feedback regarding lack of labelling on the charts and graphs was also due to the fact that users were looking at wireframes, which were just primary renditions of the graphs. Since the users had no issues with the layout of any of the graphs I only made a few changes to the wireframes for my final graphs. I added labels to the y axis of each graph for context. I also gave each graph a header. When doing this, I remembered that Good Charts suggests not simply describing what is in the graphs with the header, but rather using the header to help tell the story. However, for the purpose of my presentation I thought an overly wordy header would be too distracting, so I kept the headers short and simple by using the space to tell the reader whether the graph was about older or younger generations. 
+After the changes were made to the content, I created my presentation. I wanted the presentation to flow well, so I used the “transitions” template from Shorthand. The biggest difficulty with this was that it required images, so I had to create all of my charts as PNG images rather than embedding them from Tableau, Flourish Studio, or Infogram. The benefit to this was that I had more flexibility with size and placement than if I’d just used the embed link. 
+In the end I think my presentation worked well for its intended audience and purpose. I learned a lot about creating graphs using different software and about using Shorthand. User research also helped me learn about adjusting the story contents and layout to fit a specific audience. If I were to do something different in future I’d probably try to get more users for user research. 
+
+### Final Data Story Link
+[Final Shorthand presentation](https://carnegiemellon.shorthandstories.com/-shifting-money--changing-donors/index.html)
 
 
+### References:
+Boyle, Katherine. “Cultivating the next generation of arts donors.” The Washington Post. 19 October 2019. 
+    https://www.washingtonpost.com/lifestyle/style/cultivating-the-next-generation-of-arts-donors/2012/10/18/5a457fa0-f85f-11e1-8b93-c4f4ab1c8d13_story.html
+
+“The Charitable Habits of Generation Z, Millennials, Generation X, Baby Boomers, and Matures.” The Blackbaud 
+    Institute. April 2018. https://institute.blackbaud.com/asset/the-next-generation-of-american-giving-2018/
+
+“Culture Track ’17.” La Placa Cohen. New York City:2017. https://culturetrack.com/research/reports/
+    Roser, Max, Hannah Ritchie, and Esteban Ortiz-Ospina.  “World Population Growth.” Our World in Data. May 2019. 
+    https://ourworldindata.org/world-population-growth
+
+“The Ultimate List of Charitable Giving Statistics for 2018.” Nonprofit Source. Accessed 19 November 2020. 
+    https://nonprofitssource.com/online-giving-statistics/
+
+Images: All background images from Canva.com, for use by subscribers.
 
 
 [Back to main portfolio](README.md)
