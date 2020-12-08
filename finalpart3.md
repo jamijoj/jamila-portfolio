@@ -84,7 +84,6 @@ Other sources
 I will use other sources to reference specific statistics for the project. Though these are not in the form of datasets, they provide valuable information. These are an article by Katherine Boyle from the Washington Post, [“Cultivating the Next Generation of Ars Donors,”](https://www.washingtonpost.com/lifestyle/style/cultivating-the-next-generation-of-arts-donors/2012/10/18/5a457fa0-f85f-11e1-8b93-c4f4ab1c8d13_story.html)
 and a page from NonprofitSource.com highlighting important [giving statistics for the year 2018.](https://nonprofitssource.com/online-giving-statistics/)
 
-&nbsp;  
 
 #### Method and Medium
 
@@ -94,6 +93,16 @@ To present my project I plan to use Shorthand. I think that Shorthand is a good 
 
 ### Design and user research
 
+#### Initial sketches
+
+![IMG20201123170017](https://user-images.githubusercontent.com/73584997/99929536-94dfe480-2d1b-11eb-92b4-4ff4d78825d8.jpg)
+![IMG20201123170025](https://user-images.githubusercontent.com/73584997/99929538-97dad500-2d1b-11eb-8abb-c05b3c2dfb16.jpg)
+![IMG20201123170034](https://user-images.githubusercontent.com/73584997/99929527-8eea0380-2d1b-11eb-84c3-14bdecc9d87d.jpg)
+![IMG20201123170043](https://user-images.githubusercontent.com/73584997/99929532-93162100-2d1b-11eb-81ec-0c5fe98f09ff.jpg)
+
+#### Wireframes and storyboards
+This shows the high-fidelity, individual draft visualizations of the critical elements of the story. The storyboard shows the flow of the story, with the wireframes integrated. 
+![Part II1](https://user-images.githubusercontent.com/73584997/100828201-90f34700-342c-11eb-9331-990bb6b1e9e9.png)
 
 
 
