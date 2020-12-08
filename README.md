@@ -15,3 +15,5 @@ In this class I hope to learn how to combine basic design skills and data to qui
 [Final Project: Part 1](finalpart1.md)
 
 [Final Project: Part 2](finalpart2.md)
+
+[Final Project: Part 3](finalpart3.md)
