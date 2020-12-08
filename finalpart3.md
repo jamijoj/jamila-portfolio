@@ -154,15 +154,14 @@ Did anything surprise or confuse you? | One user mentioned they were confused at
 Is there anything you would change or do differently?|One user mentioned the importance of keeping the variables the same color. |This is something I’ve already been doing and will continue to do. 
 
 ### Final Data Story
-&nbsp;  
 As previously mentioned, the audience for this story is people who work in the arts, specifically in fundraising in the arts. The issue presented in the field is something that is talked about sometimes, but never really given focus. Fundraising efforts continue to be directed toward older generations (64+), meaning that younger generations are often passed over for some of the bigger donorship solicitations and appeals. This presentation aims to bring that to light by outlining how younger generations will soon be a major source of funding and showing how fundraisers can successfully solicit donations from younger donors. 
 There were no personas used in the user research process, but all of the interviewees were people who work in nonprofits fundraising. I got some valuable feedback from the users, the summary of which is located in the User Research and Protocol section. The key points that I got from the user research were that the graphs and charts needed to be better labelled, that the reason why switching to younger donors would be more beneficial wasn’t clear, and that the layout of the final slide that listed ideas for events and activities was confusing.
-&nbsp;  
+&nbsp;   
 I suspected that the lack of clarity around why arts organizations should switch to focus on younger donors was due to the fact that users were looking at a storyboard with wireframes rather than seeing the story in its final form. But, just in case, I added in another slide with a stat mentioning how donations from younger people was on the rise. The feedback regarding lack of labelling on the charts and graphs was also due to the fact that users were looking at wireframes, which were just primary renditions of the graphs. Since the users had no issues with the layout of any of the graphs I only made a few changes to the wireframes for my final graphs. I added labels to the y axis of each graph for context. I also gave each graph a header. When doing this, I remembered that Good Charts suggests not simply describing what is in the graphs with the header, but rather using the header to help tell the story. However, for the purpose of my presentation I thought an overly wordy header would be too distracting, so I kept the headers short and simple by using the space to tell the reader whether the graph was about older or younger generations. 
-&nbsp;  
+&nbsp;   
 After the changes were made to the content, I created my presentation. I wanted the presentation to flow well, so I used the “transitions” template from Shorthand. The biggest difficulty with this was that it required images, so I had to create all of my charts as PNG images rather than embedding them from Tableau, Flourish Studio, or Infogram. The benefit to this was that I had more flexibility with size and placement than if I’d just used the embed link. 
 In the end I think my presentation worked well for its intended audience and purpose. I learned a lot about creating graphs using different software and about using Shorthand. User research also helped me learn about adjusting the story contents and layout to fit a specific audience. If I were to do something different in future I’d probably try to get more users for user research. 
-&nbsp;  
+&nbsp;   
 ### Final Data Story Link
 [Final Shorthand presentation](https://carnegiemellon.shorthandstories.com/-shifting-money--changing-donors/index.html)
 
