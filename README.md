@@ -19,4 +19,4 @@ In this class I learned how to combine basic design skills and data to quickly a
 [Final Project: Part 3](finalpart3.md)
 
 
-Check out my GIS Portfolio [here](https://jamijoj.github.io/GIS-Portfolio/)
+### Check out my GIS Portfolio [here](https://jamijoj.github.io/GIS-Portfolio/)
