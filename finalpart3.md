@@ -162,7 +162,10 @@ After the changes were made to the content, I created my presentation. I wanted 
 In the end I think my presentation worked well for its intended audience and purpose. I learned a lot about creating graphs using different software and about using Shorthand. User research also helped me learn about adjusting the story contents and layout to fit a specific audience. If I were to do something different in future I’d probably try to get more users for user research. &nbsp;  
 
 ### Final Data Story Link
-## [Final Shorthand presentation](https://carnegiemellon.shorthandstories.com/-shifting-money--changing-donors/index.html)
+## [Final Shorthand presentation](https://carnegiemellon.shorthandstories.com/-shifting-money--changing-donors/index.html)&nbsp;  
+&nbsp;  
+&nbsp;  
+
 
 
 ### References
