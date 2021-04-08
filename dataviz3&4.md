@@ -79,3 +79,5 @@ I also wanted to try adding the color scale to my graph, to give the feeling of 
 &nbsp;  
 I think both these solutions work for different audiences. In fact, I went back to the same users I worked with for the wireframe and they were evenly split between which solution was most effective. In the end, for a toy review website, I would probably go with Solution 2. 
 
+[Back to main portfolio](README.md)
+
