@@ -1,4 +1,4 @@
-# Welcome to my Telling Stories with Data portfolio!
+# Welcome!
 This is my Telling Stories with Data portfolio. This is a selection of projects illustrating how I combined basic design skills and data to quickly and effectively communicate a message. The tools I used included Tableau, Shorthand, Flourish, Gimp, and Canva. I also used Python for data analysis.
 
 # Projects: 
